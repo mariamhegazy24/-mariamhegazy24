@@ -19,7 +19,7 @@
 - 💻 Frontend Developer | Cross-Platform Developer  
 - ⚡ Skilled in **React, React Native, Flutter, HTML, CSS, JavaScript, Bootstrap, jQuery**  
 - 🎨 I love building responsive, user-friendly, and modern applications  
-- 🌱 Currently learning more about **advanced React, State Management, and Flutter**  
+- 🌱 Currently learning more about **advanced React, React Native, and Flutter**  
 - 📩 Reach me on:
 
 <p align="center">
